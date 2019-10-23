@@ -14,6 +14,9 @@ public class StudentRecordTester
         int[] c={20,50,50,80};
         
         StudentRecord[] students;
+        gradesArray[0] = a;
+        grade
+        
     }
     
 }
