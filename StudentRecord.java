@@ -19,7 +19,7 @@ public class StudentRecord
       for(int i = first; i<=last ; i++)
       {sum+=scores[i];
        sum/=((last-first)+i);}
-    return 0; //here so the class compiles
+    return sum; //here so the class compiles
    }
     
    /** returns true if each successive value in scores is greater than
@@ -40,3 +40,16 @@ public class StudentRecord
       return 0; //here so the class compiles
    } 
 }
+
+
+
+
+
+
+
+//finalAverage()
+//{if (has Improved())
+    //return average(scores.length/2, scores.length-1),
+   //else
+   // return average((), scores.length-1),
+    
